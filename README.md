@@ -6,9 +6,9 @@ This repository contains a Java implementation of a Huffman Encoder, including c
 
 ## About
 
-This project is primarily for educational purposes and personal use. 
+This project is primarily for educational purposes and personal use.
 
-The `BinaryHeap` implementation, is adapted from educational materials by Allen Weiss. His code is used here under educational fair use and is not for commercial distribution.
+The "BinaryHeap" and "UnderflowException" files are adapted from educational materials by Allen Weiss. His code is used here under educational fair use and is not for commercial distribution.
 
 ---
 
